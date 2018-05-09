@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage" : "https://halbouni.ca/test4/resume/",
+  "homepage" : "https://omar.halbouni.ca",
   "private": true,
   "dependencies": {
     "react": "^16.3.2",
